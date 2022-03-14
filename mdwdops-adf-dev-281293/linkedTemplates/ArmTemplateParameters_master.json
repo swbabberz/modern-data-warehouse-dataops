@@ -30,7 +30,7 @@
 			"value": "https://adb-3706277781031077.17.azuredatabricks.net"
 		},
 		"Ls_AzureDatabricks_01_properties_typeProperties_workspaceResourceId": {
-			"value": "/subscriptions/c20af4c3-6b7a-4ee8-b830-a2a69c4a56ac/resourceGroups/mdwdops-16-dev-rg/providers/Microsoft.Databricks/workspaces/mdwdops-dbw-dev-16"
+			"value": "/subscriptions/c4619408-9139-4efb-805a-44396ea436cf/resourceGroups/mdwdops-281293-dev-rg/providers/Microsoft.Databricks/workspaces/mdwdops-dbw-dev-281293"
 		},
 		"Ls_AzureSQLDW_01_properties_typeProperties_connectionString_secretName": {
 			"value": "sqldwConnectionString"
