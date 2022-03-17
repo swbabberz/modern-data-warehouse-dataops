@@ -59,7 +59,7 @@
 			},
 			{
 				"name": "Set infilefolder",
-				"description": "Trigger PR",
+				"description": "Trigger PR only",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"userProperties": [],
